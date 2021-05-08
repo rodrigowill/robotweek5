@@ -1,0 +1,23 @@
+{
+    "restaurant": "DEBUGER KING",
+    "desc": "40 anos se especializando em trash food.",
+    "products": [
+        {
+            "name": "Woopper Burger"
+        },
+        {
+            "name": "Batatas Fritas"
+        },
+        {
+            "name": "Refrigerante"
+        }
+    ],
+    "total": "28,50",
+    "customer": {
+        "name": "Rodrigo Soares",
+        "email": "rodrigo@teste.com",
+        "address": "Rua dos catis",
+        "number": "1234"
+    },
+    "payment": "Dinheiro"
+}

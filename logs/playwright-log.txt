@@ -1,0 +1,116 @@
+{"level":30,"time":"2021-05-08T00:32:35.528Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Listening on 50981"}
+{"level":30,"time":"2021-05-08T00:32:35.804Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:36.182Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T00:32:36.183Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:39.630Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T00:32:40.172Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T00:32:46.823Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing \nDEBUGER KING 3.5\nHamburgers\n100m\n"}
+{"level":30,"time":"2021-05-08T00:32:46.976Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:46.976Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:32:46.977Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:47.011Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:47.011Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:32:47.011Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:47.214Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:47.602Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T00:32:47.602Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:51.079Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T00:32:51.584Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T00:32:52.644Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing \nPIZZA BUG 4.9\nPizzaria\n25m\n"}
+{"level":30,"time":"2021-05-08T00:32:52.765Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing \nPIZZA BUG 4.9\nPizzaria\n25m\n"}
+{"level":30,"time":"2021-05-08T00:32:53.242Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=div[class=\"place-info-box\"][style=\"opacity: 1;\"] containing \nSTARBUGS COFFEE 4.8\nCafeteria\n30-40m\n"}
+{"level":30,"time":"2021-05-08T00:32:53.373Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:53.373Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:32:53.373Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:53.388Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:53.388Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:32:53.388Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:53.615Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:53.997Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T00:32:53.997Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:57.334Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T00:32:57.815Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T00:32:59.141Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:59.142Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:32:59.142Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:59.208Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:59.208Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:32:59.208Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:32:59.469Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:32:59.818Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T00:32:59.819Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:03.179Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T00:33:03.651Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T00:33:05.108Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.158Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.208Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.255Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.305Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.354Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.414Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.457Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.503Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.551Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.598Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.643Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:05.768Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nCafeteria\nQuem somos\nNada melhor que um café pra te ajudar a resolver um bug.\nHorários\nFunciona de segunda à sábado, de 6h às 22h\n"}
+{"level":30,"time":"2021-05-08T00:33:07.173Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element xpath=//th[contains(text(),\"Total\")]/../td containing R$ 15,60"}
+{"level":30,"time":"2021-05-08T00:33:07.363Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:07.363Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:33:07.363Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:07.391Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:07.392Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:33:07.392Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:07.630Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:08.010Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T00:33:08.010Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:11.253Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T00:33:11.800Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T00:33:13.465Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.521Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.564Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.610Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.660Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.708Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.754Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.809Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.864Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.909Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:13.957Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:14.005Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:14.128Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nCafeteria\nQuem somos\nNada melhor que um café pra te ajudar a resolver um bug.\nHorários\nFunciona de segunda à sábado, de 6h às 22h\n"}
+{"level":30,"time":"2021-05-08T00:33:16.494Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element xpath=//th[contains(text(),\"Total\")]/../td containing R$ 38,00"}
+{"level":30,"time":"2021-05-08T00:33:16.666Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:16.666Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:33:16.666Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:16.714Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:16.714Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:33:16.714Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:16.972Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:17.354Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-08T00:33:17.354Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:20.729Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-08T00:33:21.249Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-08T00:33:22.691Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:22.734Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:22.781Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:22.828Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:22.875Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:22.922Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:22.973Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.017Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.064Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.114Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.159Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.205Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.250Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.297Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.346Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nQuem somos\nHorários\n"}
+{"level":30,"time":"2021-05-08T00:33:23.395Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=#detail containing Categoria\nHamburgers\nQuem somos\n40 anos se especializando em trash food.\nHorários\nFunciona todos os dias, de 10h às 22h\n"}
+{"level":30,"time":"2021-05-08T00:33:26.117Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Retrieved text for element css=.page-header containing  Finalize o seu pedido"}
+{"level":30,"time":"2021-05-08T00:33:29.377Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:29.378Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:33:29.378Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
+{"level":30,"time":"2021-05-08T00:33:29.392Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active context"}
+{"level":30,"time":"2021-05-08T00:33:29.392Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-08T00:33:29.392Z","pid":2724,"hostname":"DESKTOP-HLOQ9GO","msg":"Changed active page"}
